@@ -1,0 +1,2 @@
+# mnist
+implementation of mnist
